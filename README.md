@@ -15,5 +15,17 @@ Download and install instructions can be found at: http://eigen.tuxfamily.org. R
 or follow the guidance in https://opencv.org.
 
 ### Qt5
-Type ```sudo apt-get install qt5-default qtcreator
-``` in a terminal.
+Type in a terminal:
+```sudo apt-get install qt5-default qtcreator
+```
+
+### yaml-cpp
+```git clone https://github.com/jbeder/yaml-cpp.git``` and build.
+
+## How to build
+```
+mkdir build
+cd build
+cmake ..
+make
+```
