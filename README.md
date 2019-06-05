@@ -25,12 +25,13 @@ sudo apt-get install qt5-default qtcreator
 ### yaml-cpp
 ```
 git clone https://github.com/jbeder/yaml-cpp.git
-``` and build.
+``` 
+and build.
 
 ## How to build
 ```
-mkdir build
-cd build
-cmake ..
-make
+mkdir build \
+cd build \
+cmake .. \
+make \
 ```
