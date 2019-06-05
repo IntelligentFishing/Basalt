@@ -11,7 +11,8 @@ The packages below are required to build Basalt.
 Download and install instructions can be found at: http://eigen.tuxfamily.org. Required at least 3.1.0.
 
 ### OpenCV3
-```git clone https://github.com/opencv/opencv.git
+```
+git clone https://github.com/opencv/opencv.git
 ```
 or follow the guidance in https://opencv.org.
 
