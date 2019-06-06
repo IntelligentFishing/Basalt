@@ -20,7 +20,9 @@ Type in a terminal:```sudo apt-get install qt5-default qtcreator```
 ```git clone https://github.com/jbeder/yaml-cpp.git```  and build.
 
 ## How to build
-```mkdir build 
+```
+mkdir build 
 cd build 
 cmake .. 
-make ```
+make 
+```
